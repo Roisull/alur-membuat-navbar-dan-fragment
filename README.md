@@ -6,3 +6,4 @@
 4. membuat folder menu di res/
 5. di dalam folder res/menu/, buatlah file Menu Resource File dengan nama menu.xml
 6. di dalam file menu.xml tuliskan kode xml nya
+7. sebelumnya, kamu sudah mendownload vector-vector asset untuk navbar
